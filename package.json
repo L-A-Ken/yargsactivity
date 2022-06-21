@@ -1,7 +1,6 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "yargs": "^17.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoltonAndrew/referenceApps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BoltonAndrew/referenceApps/issues"
+  },
+  "homepage": "https://github.com/BoltonAndrew/referenceApps#readme",
+  "description": ""
 }
